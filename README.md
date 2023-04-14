@@ -18,6 +18,6 @@ Skills: PHP/Laravel/REACT / JS / HTML / CSS/BootStrap
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrZitu&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SrZitu)  
+ 
 
 
