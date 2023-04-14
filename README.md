@@ -1,5 +1,4 @@
 
-![Web Developer](https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/321435813_831280331311758_7001836082359741109_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=AxzqvwZm9A8AX8e6YaG&_nc_ht=scontent.fdac31-1.fna&oh=00_AfDQUw2WE7UOvafuXp3m_I-32m0qCTqhocjDXS6_kf4mcg&oe=643E82FF)
 
 ### Hi there 👋, I'm Sazzadur Rahman Zitu
 #### Web Developer
