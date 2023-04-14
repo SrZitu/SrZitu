@@ -4,7 +4,7 @@
 #### Web Developer
 
 
-I have been working on PHP Laravel. Gradually I'm developing Real life Projects. I like to explore new technologies. I think learning is fun. Happy Coding. 
+I'm learning PHP Laravel and React Js. Gradually I'm developing Real life Projects. I like to explore new technologies. I think learning is fun. Happy Learning.
 
 Skills: PHP/Laravel/REACT / JS / HTML / CSS/BootStrap
 
