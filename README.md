@@ -9,7 +9,7 @@ Skills: PHP/Laravel/Vue Js / JS / HTML / CSS/BootStrap
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrZitu)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SrZitu&show_icons=true)  
+
 
  
 
