@@ -3,21 +3,6 @@
 <h2 align="center">Hi there 👋, I'm Md. Sazzadur Rahman Zitu!</h2>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" alt="Header Image">
-</p>
-
-<!-- Most Used Language Stats Section -->
-<h3 align="center">Most Used Languages:</h3>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrZitu&layout=compact&hide=html&langs_count=6&theme=radical&hide_title=true&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" align="right">
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Replace the image URLs with the corresponding shields/badges -->
@@ -56,19 +41,24 @@
   </a>
 </p>
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" align="right">
+
+<!-- Most Used Language Stats Section -->
+<h3 align="center">Most Used Languages:</h3>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrZitu&layout=compact&hide=html&langs_count=6&theme=radical&hide_title=true&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+
+
+
+
 <!-- GitHub Stats and Streak Stats Section -->
-<div style="display: flex; justify-content: center;">
-  <div style="flex: 1;">
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=srzitu&show_icons=true&locale=en" alt="GitHub Stats" />
-    </p>
-  </div>
-  <div style="flex: 1;">
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=srzitu&" alt="GitHub Streak Stats" />
-    </p>
-  </div>
-</div>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srzitu&" alt="srzitu" /></p>
 
 
 
